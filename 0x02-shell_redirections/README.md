@@ -1,0 +1,1 @@
+These are shell scripts in this folder. starting from hello world to more complicate scripts
